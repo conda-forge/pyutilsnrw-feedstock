@@ -1,7 +1,7 @@
 {% set name = "pyutilsnrw" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.1" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "79db121ab7b69c526c8a13769d16e2311e952092ed09b828099bbfb755a16c51" %}
+{% set hash_value = "bfd0a351264d45742fa953e393b6d29243635ed690fbef02fd4466bfd5020e26" %}
 
 package:
   name: '{{ name|lower }}'
